@@ -1,2 +1,0 @@
-# SWRDemo
-Created with CodeSandbox
