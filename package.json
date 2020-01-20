@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
-    "@zeit/swr": "0.0.2",
+    "swr": "0.0.2",
     "graphql-request": "1.8.2",
     "react": "experimental",
     "react-dom": "experimental",
