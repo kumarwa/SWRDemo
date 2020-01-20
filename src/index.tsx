@@ -1,7 +1,7 @@
 import React, { useEffect, Suspense } from "react";
 import { createRoot } from "react-dom";
 
-import useSWR from "@zeit/swr";
+import useSWR from "swr";
 import { request } from "graphql-request";
 
 import "./styles.css";
